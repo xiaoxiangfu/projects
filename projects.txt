@@ -1,3 +1,16 @@
 AI Hacking
 https://github.com/Kayzaks/HackingNeuralNetworks
 
+NIDS:
+zeek, suricata, snort
+
+HIDS:
+OSSEC, Samhain Labs
+
+FIM(File Integrity Monitoring):
+Tripwire, AFICK
+chkrootkit, rkhunter, unhide
+
+blog reference:
+https://cybersecurity.att.com/blogs/security-essentials/open-source-intrusion-detection-tools-a-quick-overview
+
