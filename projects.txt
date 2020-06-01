@@ -14,3 +14,5 @@ chkrootkit, rkhunter, unhide
 blog reference:
 https://cybersecurity.att.com/blogs/security-essentials/open-source-intrusion-detection-tools-a-quick-overview
 
+An eBPF implementation of Process Homeostasis (pH) which monitors system call sequences and detects anomalies for intrusion detection.
+https://github.com/willfindlay/ebpH
